@@ -1,5 +1,5 @@
 # fypscript
-Backup for my bash script for FYP in 2019.
+Backup for my bash script for final year project in 2019.
 
 Title: Design and Development of Automated Incremental Secured Data Backup/Restore Process over Local Area Network using Secure Socket Shell
 
